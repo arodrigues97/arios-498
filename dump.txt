@@ -1,0 +1,141 @@
+Packed model 42314 for NPC 8126!
+Packed animation 10392 - true
+Packed animation 10392 for NPC 8126!
+------- Packed NPC 8126! ---------
+Packed animation 10392 - true
+Packed animation 10392 for NPC 8127!
+------- Packed NPC 8127! ---------
+Packed animation 10056 - true
+Packed animation 10056 for NPC 8128!
+Packed animation 10055 - true
+Packed animation 10055 for NPC 8128!
+------- Packed NPC 8128! ---------
+Packed animation 10056 - true
+Packed animation 10056 for NPC 8129!
+Packed animation 10055 - true
+Packed animation 10055 for NPC 8129!
+------- Packed NPC 8129! ---------
+Packed model 44738 for NPC 8130!
+Packed animation 10056 - true
+Packed animation 10056 for NPC 8130!
+Packed animation 10055 - true
+Packed animation 10055 for NPC 8130!
+------- Packed NPC 8130! ---------
+Packed animation 10056 - true
+Packed animation 10056 for NPC 8131!
+Packed animation 10055 - true
+Packed animation 10055 for NPC 8131!
+------- Packed NPC 8131! ---------
+Packed animation 10056 - true
+Packed animation 10056 for NPC 8132!
+Packed animation 10055 - true
+Packed animation 10055 for NPC 8132!
+------- Packed NPC 8132! ---------
+Packed model 44739 for NPC 8133!
+Packed animation 10056 - true
+Packed animation 10056 for NPC 8133!
+Packed animation 10055 - true
+Packed animation 10055 for NPC 8133!
+------- Packed NPC 8133! ---------
+
+
+anim 10059 = ?
+gfx 1823 = range
+gfx 1824 = loc. based
+gfx 1825 = magic
+gfx 1834 = stomp
+
+
+
+Packed animation 10402 - true
+Packed animation 10402 for GFX 1820!
+Packed model 41116 for GFX 1820!
+--------- Packed graphic 1820! ---------
+Packed animation 10403 - true
+Packed animation 10403 for GFX 1821!
+Packed model 41116 for GFX 1821!
+--------- Packed graphic 1821! ---------
+Packed animation 10404 - true
+Packed animation 10404 for GFX 1822!
+Packed model 41138 for GFX 1822!
+--------- Packed graphic 1822! ---------
+Packed animation 10407 - true
+Packed animation 10407 for GFX 1823!
+Packed model 41115 for GFX 1823!
+--------- Packed graphic 1823! ---------
+Packed animation 10406 - true
+Packed animation 10406 for GFX 1824!
+Packed model 41115 for GFX 1824!
+--------- Packed graphic 1824! ---------
+Packed animation 10408 - true
+Packed animation 10408 for GFX 1825!
+Packed model 41115 for GFX 1825!
+--------- Packed graphic 1825! ---------
+Packed animation 10387 - true
+Packed animation 10387 for GFX 1826!
+Packed model 42314 for GFX 1826!
+--------- Packed graphic 1826! ---------
+Packed animation 10390 - true
+Packed animation 10390 for GFX 1827!
+Packed model 42314 for GFX 1827!
+--------- Packed graphic 1827! ---------
+Packed animation 10394 - true
+Packed animation 10394 for GFX 1828!
+Packed model 42314 for GFX 1828!
+--------- Packed graphic 1828! ---------
+Packed animation 10411 - true
+Packed animation 10411 for GFX 1829!
+Packed model 42321 for GFX 1829!
+--------- Packed graphic 1829! ---------
+Packed animation 10412 - true
+Packed animation 10412 for GFX 1830!
+Packed model 42322 for GFX 1830!
+--------- Packed graphic 1830! ---------
+Packed animation 10421 - true
+Packed animation 10421 for GFX 1831!
+Packed model 42523 for GFX 1831!
+--------- Packed graphic 1831! ---------
+Packed animation 10422 - true
+Packed animation 10422 for GFX 1832!
+Packed model 42524 for GFX 1832!
+--------- Packed graphic 1832! ---------
+Packed animation 10472 - true
+Packed animation 10472 for GFX 1833!
+Packed model 42522 for GFX 1833!
+--------- Packed graphic 1833! ---------
+Packed animation 10497 - true
+Packed animation 10497 for GFX 1834!
+Packed model 42557 for GFX 1834!
+--------- Packed graphic 1834! ---------
+Packed animation 10525 - true
+Packed animation 10525 for GFX 1835!
+Packed model 42565 for GFX 1835!
+--------- Packed graphic 1835! ---------
+Packed animation 10526 - true
+Packed animation 10526 for GFX 1836!
+Packed model 42565 for GFX 1836!
+--------- Packed graphic 1836! ---------
+Packed animation 10509 - true
+Packed animation 10509 for GFX 1837!
+Packed model 42567 for GFX 1837!
+--------- Packed graphic 1837! ---------
+Packed animation 10527 - true
+Packed animation 10527 for GFX 1838!
+Packed model 42565 for GFX 1838!
+--------- Packed graphic 1838! ---------
+Packed animation 10500 - true
+Packed animation 10500 for GFX 1839!
+Packed model 42575 for GFX 1839!
+--------- Packed graphic 1839! ---------
+Packed animation 10528 - true
+Packed animation 10528 for GFX 1840!
+Packed model 42565 for GFX 1840!
+--------- Packed graphic 1840! ---------
+Packed animation 10776 - true
+Packed animation 10776 for GFX 1901!
+Packed model 44673 for GFX 1901!
+--------- Packed graphic 1901! ---------
+Packed animation 10912 - true
+Packed animation 10912 for GFX 1935!
+Packed model 44676 for GFX 1935!
+--------- Packed graphic 1935! ---------
