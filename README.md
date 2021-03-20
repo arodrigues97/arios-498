@@ -1,4 +1,4 @@
-# The Arios RuneScape Private Server 498 revision.
+# The Arios RuneScape Private Server 498 Revision.
 
 This is the Arios 498 revision. Started back in 2012 by me and Emperor (https://forum.runelocus.com/topic/79505-arios-498-reliving-the-good-times/).
 
